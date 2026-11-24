@@ -1,0 +1,401 @@
+customer_id,first_name,last_name,email,city,state,signup_date,customer_segment
+C0001,Bola,Ojo,customer0001@example.com,Port Harcourt,Rivers,2025-03-29,Regular
+C0002,Zainab,Ibrahim,customer0002@example.com,Uyo,Akwa Ibom,2024-05-07,Regular
+C0003,Chiamaka,Ibrahim,customer0003@example.com,Uyo,Akwa Ibom,2025-02-21,Regular
+C0004,Amaka,Eze,customer0004@example.com,Ilorin,Kwara,2023-10-31,Regular
+C0005,Ada,Musa,customer0005@example.com,Abuja,FCT,2023-01-30,Regular
+C0006,Samuel,Adeyemi,customer0006@example.com,Lagos,Lagos,2023-09-26,Premium
+C0007,Daniel,Ojo,customer0007@example.com,Benin City,Edo,2025-08-18,Regular
+C0008,Tunde,Musa,customer0008@example.com,Ibadan,Oyo,2025-09-12,Premium
+C0009,Kelechi,James,customer0009@example.com,Uyo,Akwa Ibom,2024-11-29,Premium
+C0010,Fatima,Uche,customer0010@example.com,Abuja,FCT,2023-08-08,Regular
+C0011,Emeka,Eze,customer0011@example.com,Port Harcourt,Rivers,2024-05-21,New
+C0012,Kunle,Musa,customer0012@example.com,Kano,Kano,2023-02-02,Premium
+C0013,Aisha,Ojo,customer0013@example.com,Lagos,Lagos,2023-06-29,New
+C0014,Samuel,Adebayo,customer0014@example.com,Uyo,Akwa Ibom,2025-05-04,New
+C0015,Kelechi,Bello,customer0015@example.com,Abuja,FCT,2024-11-23,Premium
+C0016,Fatima,Ibrahim,customer0016@example.com,Ibadan,Oyo,2023-06-20,Regular
+C0017,Aisha,Adeyemi,customer0017@example.com,Ilorin,Kwara,2025-04-23,Regular
+C0018,Tunde,Nwosu,customer0018@example.com,Kano,Kano,2025-04-23,New
+C0019,Mary,Balogun,customer0019@example.com,Benin City,Edo,2023-07-17,New
+C0020,David,Nwosu,customer0020@example.com,Abuja,FCT,2024-12-24,New
+C0021,Daniel,Adebayo,customer0021@example.com,Enugu,Enugu,2023-07-18,New
+C0022,Bola,Balogun,customer0022@example.com,Kano,Kano,2023-03-21,Premium
+C0023,Mary,Nwosu,customer0023@example.com,Port Harcourt,Rivers,2023-07-25,Regular
+C0024,Chiamaka,Ibrahim,customer0024@example.com,Benin City,Edo,2023-04-14,New
+C0025,Bola,Lawal,customer0025@example.com,Abuja,FCT,2025-04-08,Regular
+C0026,Fatima,Ojo,customer0026@example.com,Ilorin,Kwara,2024-03-28,New
+C0027,Ife,Okafor,customer0027@example.com,Kano,Kano,2024-04-14,New
+C0028,Tunde,Uche,customer0028@example.com,Abuja,FCT,2025-01-12,Regular
+C0029,Emeka,Nwosu,customer0029@example.com,Kano,Kano,2024-07-23,New
+C0030,Mary,Obi,customer0030@example.com,Uyo,Akwa Ibom,2023-04-27,Premium
+C0031,Ada,Eze,customer0031@example.com,Ibadan,Oyo,2024-02-18,New
+C0032,Aisha,Balogun,customer0032@example.com,Ilorin,Kwara,2023-06-28,Premium
+C0033,Emeka,James,customer0033@example.com,Benin City,Edo,2025-01-03,Regular
+C0034,Bola,Obi,customer0034@example.com,Abuja,FCT,2025-02-11,Regular
+C0035,Mary,Musa,customer0035@example.com,Port Harcourt,Rivers,2024-08-10,New
+C0036,Daniel,Adeyemi,customer0036@example.com,Port Harcourt,Rivers,2023-11-21,New
+C0037,Samuel,Ibrahim,customer0037@example.com,Abeokuta,Ogun,2023-11-16,Regular
+C0038,Daniel,Musa,customer0038@example.com,Ibadan,Oyo,2025-03-17,Regular
+C0039,Chiamaka,Musa,customer0039@example.com,Ilorin,Kwara,2024-03-16,Regular
+C0040,Chiamaka,Obi,customer0040@example.com,Abuja,FCT,2023-04-25,Premium
+C0041,Olu,James,customer0041@example.com,Abeokuta,Ogun,2023-07-13,Premium
+C0042,Amaka,Adebayo,customer0042@example.com,Enugu,Enugu,2025-07-31,Premium
+C0043,Amaka,Nwosu,customer0043@example.com,Enugu,Enugu,2025-03-06,Premium
+C0044,Fatima,Nwosu,customer0044@example.com,Abeokuta,Ogun,2023-01-16,New
+C0045,Kelechi,Uche,customer0045@example.com,Lagos,Lagos,2024-12-05,Premium
+C0046,Tunde,Adeyemi,customer0046@example.com,Abuja,FCT,2023-05-31,New
+C0047,Daniel,Ojo,customer0047@example.com,Port Harcourt,Rivers,2025-03-05,Premium
+C0048,Bola,Okafor,customer0048@example.com,Enugu,Enugu,2023-03-16,Premium
+C0049,David,James,customer0049@example.com,Abeokuta,Ogun,2023-02-16,Regular
+C0050,Ada,Balogun,customer0050@example.com,Enugu,Enugu,2024-11-07,New
+C0051,Amaka,Uche,customer0051@example.com,Enugu,Enugu,2023-06-02,New
+C0052,Fatima,Obi,customer0052@example.com,Kano,Kano,2025-06-10,Premium
+C0053,Mary,Bello,customer0053@example.com,Uyo,Akwa Ibom,2023-08-09,Premium
+C0054,Ada,James,customer0054@example.com,Ibadan,Oyo,2023-03-23,New
+C0055,Bola,Ojo,customer0055@example.com,Enugu,Enugu,2024-01-07,Regular
+C0056,Bola,Lawal,customer0056@example.com,Kano,Kano,2024-02-01,Regular
+C0057,Daniel,Lawal,customer0057@example.com,Abuja,FCT,2024-06-05,Regular
+C0058,Kelechi,Balogun,customer0058@example.com,Abeokuta,Ogun,2025-05-21,Premium
+C0059,Ife,Eze,customer0059@example.com,Ibadan,Oyo,2025-07-26,Premium
+C0060,Kelechi,Eze,customer0060@example.com,Port Harcourt,Rivers,2023-03-02,Regular
+C0061,Amaka,Nwosu,customer0061@example.com,Lagos,Lagos,2023-02-13,New
+C0062,Kelechi,Uche,customer0062@example.com,Benin City,Edo,2023-12-11,New
+C0063,Samuel,Musa,customer0063@example.com,Abeokuta,Ogun,2024-10-11,New
+C0064,Ada,Adebayo,customer0064@example.com,Ilorin,Kwara,2024-02-02,New
+C0065,Kelechi,Okafor,customer0065@example.com,Ibadan,Oyo,2023-08-17,Premium
+C0066,Aisha,Uche,customer0066@example.com,Enugu,Enugu,2024-02-03,New
+C0067,Ngozi,Balogun,customer0067@example.com,Abuja,FCT,2023-08-21,Regular
+C0068,Kelechi,Uche,customer0068@example.com,Ibadan,Oyo,2025-07-15,Premium
+C0069,Ife,Adebayo,customer0069@example.com,Ilorin,Kwara,2024-10-08,Regular
+C0070,Emeka,Uche,customer0070@example.com,Ilorin,Kwara,2025-04-04,Regular
+C0071,Kunle,Nwosu,customer0071@example.com,Enugu,Enugu,2023-07-28,Premium
+C0072,Aisha,Musa,customer0072@example.com,Ibadan,Oyo,2025-09-17,Premium
+C0073,Kelechi,Nwosu,customer0073@example.com,Lagos,Lagos,2023-07-29,Regular
+C0074,Samuel,Ibrahim,customer0074@example.com,Uyo,Akwa Ibom,2023-02-18,New
+C0075,Bola,Ojo,customer0075@example.com,Lagos,Lagos,2024-03-29,New
+C0076,Ada,Balogun,customer0076@example.com,Ilorin,Kwara,2024-03-14,New
+C0077,Ife,Bello,customer0077@example.com,Lagos,Lagos,2024-09-07,Regular
+C0078,Ada,James,customer0078@example.com,Port Harcourt,Rivers,2024-12-19,Regular
+C0079,Ife,Musa,customer0079@example.com,Uyo,Akwa Ibom,2023-02-17,Regular
+C0080,Fatima,Musa,customer0080@example.com,Abuja,FCT,2024-11-19,Premium
+C0081,Ngozi,Obi,customer0081@example.com,Enugu,Enugu,2023-02-22,Regular
+C0082,Ife,Adebayo,customer0082@example.com,Lagos,Lagos,2025-07-24,New
+C0083,Olu,Bello,customer0083@example.com,Port Harcourt,Rivers,2023-09-04,Premium
+C0084,Zainab,Nwosu,customer0084@example.com,Lagos,Lagos,2024-06-26,Regular
+C0085,Kunle,Lawal,customer0085@example.com,Lagos,Lagos,2023-07-31,Premium
+C0086,Ife,Lawal,customer0086@example.com,Ilorin,Kwara,2023-06-11,Regular
+C0087,Emeka,Musa,customer0087@example.com,Lagos,Lagos,2024-07-28,Premium
+C0088,Aisha,Lawal,customer0088@example.com,Enugu,Enugu,2023-12-29,Regular
+C0089,Emeka,Okafor,customer0089@example.com,Benin City,Edo,2024-12-01,New
+C0090,Kunle,Obi,customer0090@example.com,Enugu,Enugu,2023-06-17,Premium
+C0091,Amaka,Obi,customer0091@example.com,Uyo,Akwa Ibom,2024-04-15,Regular
+C0092,Amaka,James,customer0092@example.com,Port Harcourt,Rivers,2023-03-20,Premium
+C0093,Ngozi,Obi,customer0093@example.com,Ilorin,Kwara,2025-05-13,Regular
+C0094,Samuel,Nwosu,customer0094@example.com,Kano,Kano,2025-08-15,New
+C0095,Olu,Adebayo,customer0095@example.com,Abuja,FCT,2023-09-27,Premium
+C0096,Ngozi,Eze,customer0096@example.com,Ilorin,Kwara,2024-05-19,Premium
+C0097,Bola,Bello,customer0097@example.com,Abeokuta,Ogun,2025-07-04,Regular
+C0098,Aisha,Musa,customer0098@example.com,Kano,Kano,2023-10-10,New
+C0099,David,Ojo,customer0099@example.com,Kano,Kano,2024-12-25,Premium
+C0100,Olu,Musa,customer0100@example.com,Enugu,Enugu,2024-10-18,New
+C0101,Amaka,Lawal,customer0101@example.com,Abeokuta,Ogun,2024-02-13,Regular
+C0102,Aisha,Nwosu,customer0102@example.com,Benin City,Edo,2024-02-25,Regular
+C0103,Amaka,Uche,customer0103@example.com,Lagos,Lagos,2023-07-31,Regular
+C0104,David,Nwosu,customer0104@example.com,Uyo,Akwa Ibom,2025-09-13,Regular
+C0105,Kelechi,Uche,customer0105@example.com,Port Harcourt,Rivers,2023-05-10,Premium
+C0106,David,Adeyemi,customer0106@example.com,Abeokuta,Ogun,2023-06-22,Regular
+C0107,Ada,Eze,customer0107@example.com,Port Harcourt,Rivers,2023-01-06,Premium
+C0108,Zainab,Bello,customer0108@example.com,Enugu,Enugu,2023-11-29,Premium
+C0109,Aisha,Adeyemi,customer0109@example.com,Ibadan,Oyo,2025-03-29,Premium
+C0110,Fatima,Nwosu,customer0110@example.com,Ibadan,Oyo,2023-09-05,Premium
+C0111,Chiamaka,Eze,customer0111@example.com,Abeokuta,Ogun,2023-12-22,New
+C0112,Daniel,Okafor,customer0112@example.com,Ibadan,Oyo,2024-10-25,New
+C0113,Mary,Balogun,customer0113@example.com,Enugu,Enugu,2024-05-05,Regular
+C0114,Fatima,Ojo,customer0114@example.com,Abuja,FCT,2023-04-30,Regular
+C0115,Zainab,Balogun,customer0115@example.com,Abuja,FCT,2024-07-19,Regular
+C0116,Emeka,Obi,customer0116@example.com,Ilorin,Kwara,2025-03-22,Premium
+C0117,Daniel,Ojo,customer0117@example.com,Benin City,Edo,2024-11-26,Premium
+C0118,David,Obi,customer0118@example.com,Port Harcourt,Rivers,2024-08-25,New
+C0119,Bola,Adeyemi,customer0119@example.com,Ilorin,Kwara,2023-08-16,Regular
+C0120,Zainab,Lawal,customer0120@example.com,Benin City,Edo,2024-03-16,Premium
+C0121,Ife,Lawal,customer0121@example.com,Ibadan,Oyo,2023-10-05,Premium
+C0122,Zainab,Nwosu,customer0122@example.com,Ilorin,Kwara,2024-03-25,Premium
+C0123,Daniel,James,customer0123@example.com,Abuja,FCT,2023-01-12,New
+C0124,Chiamaka,James,customer0124@example.com,Benin City,Edo,2023-02-07,Premium
+C0125,Mary,Lawal,customer0125@example.com,Port Harcourt,Rivers,2023-12-08,Regular
+C0126,Amaka,Eze,customer0126@example.com,Enugu,Enugu,2024-06-08,Premium
+C0127,Daniel,James,customer0127@example.com,Benin City,Edo,2023-12-02,New
+C0128,Ife,Adebayo,customer0128@example.com,Ilorin,Kwara,2024-02-04,New
+C0129,Amaka,Ibrahim,customer0129@example.com,Lagos,Lagos,2024-05-07,Regular
+C0130,Olu,Ojo,customer0130@example.com,Enugu,Enugu,2025-06-08,Premium
+C0131,Amaka,Lawal,customer0131@example.com,Ibadan,Oyo,2025-07-28,New
+C0132,Aisha,James,customer0132@example.com,Ilorin,Kwara,2024-04-14,Premium
+C0133,Samuel,Uche,customer0133@example.com,Ilorin,Kwara,2023-02-19,New
+C0134,Kunle,Adeyemi,customer0134@example.com,Ilorin,Kwara,2023-08-05,Regular
+C0135,Mary,Musa,customer0135@example.com,Ibadan,Oyo,2023-11-23,Premium
+C0136,Daniel,James,customer0136@example.com,Abuja,FCT,2025-07-27,Premium
+C0137,Daniel,Balogun,customer0137@example.com,Benin City,Edo,2023-10-25,Regular
+C0138,Ngozi,Okafor,customer0138@example.com,Lagos,Lagos,2023-07-20,Regular
+C0139,Mary,Obi,customer0139@example.com,Lagos,Lagos,2023-12-15,Regular
+C0140,Ada,Uche,customer0140@example.com,Lagos,Lagos,2025-02-07,New
+C0141,Kunle,Ojo,customer0141@example.com,Abuja,FCT,2025-02-21,New
+C0142,Ada,Musa,customer0142@example.com,Ibadan,Oyo,2024-08-23,Regular
+C0143,Daniel,Ibrahim,customer0143@example.com,Abeokuta,Ogun,2025-09-24,Premium
+C0144,David,Ojo,customer0144@example.com,Kano,Kano,2025-04-26,New
+C0145,Bola,James,customer0145@example.com,Abuja,FCT,2025-03-07,New
+C0146,Mary,Uche,customer0146@example.com,Ilorin,Kwara,2024-09-29,Premium
+C0147,Kunle,Musa,customer0147@example.com,Abuja,FCT,2024-12-31,New
+C0148,Daniel,Balogun,customer0148@example.com,Abuja,FCT,2025-05-20,Premium
+C0149,Ada,Bello,customer0149@example.com,Enugu,Enugu,2024-06-20,New
+C0150,Kelechi,Adebayo,customer0150@example.com,Benin City,Edo,2024-01-29,New
+C0151,Fatima,Bello,customer0151@example.com,Ilorin,Kwara,2024-06-23,Regular
+C0152,Samuel,Ibrahim,customer0152@example.com,Ibadan,Oyo,2024-02-06,Regular
+C0153,Ada,Balogun,customer0153@example.com,Abeokuta,Ogun,2025-02-16,New
+C0154,David,Lawal,customer0154@example.com,Ibadan,Oyo,2024-07-30,Premium
+C0155,Samuel,Uche,customer0155@example.com,Abuja,FCT,2023-02-18,New
+C0156,Kelechi,Ibrahim,customer0156@example.com,Ibadan,Oyo,2025-07-26,Regular
+C0157,Daniel,Nwosu,customer0157@example.com,Enugu,Enugu,2025-09-01,New
+C0158,David,Okafor,customer0158@example.com,Enugu,Enugu,2023-02-02,Regular
+C0159,Olu,Musa,customer0159@example.com,Lagos,Lagos,2024-10-05,Premium
+C0160,Ngozi,James,customer0160@example.com,Port Harcourt,Rivers,2024-08-05,Premium
+C0161,Zainab,Adebayo,customer0161@example.com,Kano,Kano,2023-08-18,Premium
+C0162,Aisha,Adebayo,customer0162@example.com,Uyo,Akwa Ibom,2025-09-16,Regular
+C0163,Ada,Nwosu,customer0163@example.com,Benin City,Edo,2025-09-07,New
+C0164,Ngozi,Adeyemi,customer0164@example.com,Benin City,Edo,2024-08-28,Premium
+C0165,Olu,James,customer0165@example.com,Uyo,Akwa Ibom,2025-07-19,Regular
+C0166,Tunde,Balogun,customer0166@example.com,Ilorin,Kwara,2025-04-26,Premium
+C0167,Amaka,James,customer0167@example.com,Enugu,Enugu,2024-08-03,New
+C0168,Ada,James,customer0168@example.com,Abuja,FCT,2023-08-09,Regular
+C0169,Zainab,Lawal,customer0169@example.com,Enugu,Enugu,2024-08-28,New
+C0170,Ife,Ibrahim,customer0170@example.com,Kano,Kano,2024-11-04,New
+C0171,Aisha,Obi,customer0171@example.com,Ibadan,Oyo,2024-01-16,Regular
+C0172,Emeka,Okafor,customer0172@example.com,Uyo,Akwa Ibom,2025-08-05,New
+C0173,Chiamaka,Uche,customer0173@example.com,Port Harcourt,Rivers,2023-10-13,Premium
+C0174,David,Adebayo,customer0174@example.com,Benin City,Edo,2024-05-13,Regular
+C0175,Chiamaka,Obi,customer0175@example.com,Kano,Kano,2025-05-21,Regular
+C0176,Olu,Uche,customer0176@example.com,Lagos,Lagos,2025-04-29,Regular
+C0177,Ada,Adeyemi,customer0177@example.com,Ilorin,Kwara,2025-02-16,New
+C0178,Bola,Ibrahim,customer0178@example.com,Enugu,Enugu,2024-08-13,Premium
+C0179,Bola,Bello,customer0179@example.com,Abuja,FCT,2023-12-13,New
+C0180,Emeka,Uche,customer0180@example.com,Abuja,FCT,2023-05-26,New
+C0181,David,Ibrahim,customer0181@example.com,Kano,Kano,2024-09-25,Regular
+C0182,Fatima,Balogun,customer0182@example.com,Ilorin,Kwara,2023-08-15,Regular
+C0183,David,Nwosu,customer0183@example.com,Ibadan,Oyo,2023-12-18,Regular
+C0184,Tunde,Adeyemi,customer0184@example.com,Uyo,Akwa Ibom,2023-12-08,Premium
+C0185,Ife,Adeyemi,customer0185@example.com,Abuja,FCT,2024-07-28,Regular
+C0186,Daniel,Musa,customer0186@example.com,Benin City,Edo,2023-10-28,New
+C0187,Tunde,Adebayo,customer0187@example.com,Abuja,FCT,2025-01-28,Premium
+C0188,Mary,Adeyemi,customer0188@example.com,Uyo,Akwa Ibom,2023-08-30,Regular
+C0189,Daniel,Ojo,customer0189@example.com,Ilorin,Kwara,2024-06-13,New
+C0190,David,Uche,customer0190@example.com,Ilorin,Kwara,2024-05-30,Premium
+C0191,Kelechi,Okafor,customer0191@example.com,Kano,Kano,2023-10-21,Premium
+C0192,Aisha,Obi,customer0192@example.com,Lagos,Lagos,2023-01-15,Premium
+C0193,David,Ibrahim,customer0193@example.com,Abeokuta,Ogun,2023-09-04,Regular
+C0194,David,Nwosu,customer0194@example.com,Abeokuta,Ogun,2025-08-31,Premium
+C0195,Emeka,Nwosu,customer0195@example.com,Ibadan,Oyo,2024-01-31,Regular
+C0196,Olu,Balogun,customer0196@example.com,Benin City,Edo,2025-07-18,Regular
+C0197,Ife,Obi,customer0197@example.com,Uyo,Akwa Ibom,2023-02-16,Regular
+C0198,Tunde,Lawal,customer0198@example.com,Kano,Kano,2025-07-30,Regular
+C0199,Ngozi,Adebayo,customer0199@example.com,Abeokuta,Ogun,2025-05-26,Premium
+C0200,Olu,James,customer0200@example.com,Abeokuta,Ogun,2025-03-09,Regular
+C0201,Ife,Nwosu,customer0201@example.com,Uyo,Akwa Ibom,2024-04-22,Premium
+C0202,Emeka,Adeyemi,customer0202@example.com,Lagos,Lagos,2023-11-09,New
+C0203,Ada,Adeyemi,customer0203@example.com,Abuja,FCT,2025-06-27,Regular
+C0204,Tunde,Okafor,customer0204@example.com,Benin City,Edo,2023-09-23,Premium
+C0205,Zainab,Nwosu,customer0205@example.com,Kano,Kano,2025-08-26,New
+C0206,Chiamaka,Bello,customer0206@example.com,Enugu,Enugu,2023-09-22,New
+C0207,Kelechi,Ojo,customer0207@example.com,Enugu,Enugu,2025-03-14,Premium
+C0208,Zainab,Ibrahim,customer0208@example.com,Abuja,FCT,2023-09-20,Premium
+C0209,Zainab,Adeyemi,customer0209@example.com,Ibadan,Oyo,2023-11-11,Premium
+C0210,Kelechi,Balogun,customer0210@example.com,Kano,Kano,2023-01-04,New
+C0211,Fatima,Musa,customer0211@example.com,Ilorin,Kwara,2023-11-11,Regular
+C0212,Daniel,Musa,customer0212@example.com,Benin City,Edo,2025-04-21,New
+C0213,Zainab,Bello,customer0213@example.com,Abuja,FCT,2024-03-22,Regular
+C0214,Tunde,Musa,customer0214@example.com,Port Harcourt,Rivers,2025-03-12,Regular
+C0215,Ife,Obi,customer0215@example.com,Enugu,Enugu,2024-11-08,Premium
+C0216,Kunle,Balogun,customer0216@example.com,Ibadan,Oyo,2023-11-24,New
+C0217,Aisha,Nwosu,customer0217@example.com,Ibadan,Oyo,2023-02-10,Premium
+C0218,Samuel,Musa,customer0218@example.com,Lagos,Lagos,2023-05-05,Regular
+C0219,Ada,Uche,customer0219@example.com,Abeokuta,Ogun,2024-06-02,New
+C0220,Mary,Uche,customer0220@example.com,Abuja,FCT,2023-09-30,Regular
+C0221,Fatima,Musa,customer0221@example.com,Ilorin,Kwara,2023-10-30,New
+C0222,Aisha,Balogun,customer0222@example.com,Port Harcourt,Rivers,2025-05-11,Premium
+C0223,Fatima,Adebayo,customer0223@example.com,Lagos,Lagos,2023-05-18,Regular
+C0224,Amaka,Nwosu,customer0224@example.com,Ilorin,Kwara,2024-05-30,Regular
+C0225,Emeka,Adeyemi,customer0225@example.com,Abuja,FCT,2025-03-07,Premium
+C0226,Olu,Eze,customer0226@example.com,Enugu,Enugu,2023-05-27,New
+C0227,Samuel,Eze,customer0227@example.com,Uyo,Akwa Ibom,2024-11-28,New
+C0228,Olu,Musa,customer0228@example.com,Ilorin,Kwara,2025-03-05,Regular
+C0229,Kunle,Balogun,customer0229@example.com,Enugu,Enugu,2024-10-07,New
+C0230,Amaka,Okafor,customer0230@example.com,Enugu,Enugu,2025-06-19,Regular
+C0231,Ife,James,customer0231@example.com,Port Harcourt,Rivers,2023-03-27,Premium
+C0232,Kunle,Bello,customer0232@example.com,Port Harcourt,Rivers,2023-08-08,Regular
+C0233,Zainab,Nwosu,customer0233@example.com,Lagos,Lagos,2025-04-18,Premium
+C0234,Mary,Lawal,customer0234@example.com,Enugu,Enugu,2023-06-14,Regular
+C0235,Amaka,Musa,customer0235@example.com,Benin City,Edo,2023-05-03,New
+C0236,Olu,Adebayo,customer0236@example.com,Port Harcourt,Rivers,2023-05-26,Regular
+C0237,Chiamaka,James,customer0237@example.com,Kano,Kano,2025-09-13,Regular
+C0238,Kelechi,Obi,customer0238@example.com,Lagos,Lagos,2023-12-05,Regular
+C0239,Amaka,Okafor,customer0239@example.com,Port Harcourt,Rivers,2025-03-04,Premium
+C0240,Ife,James,customer0240@example.com,Port Harcourt,Rivers,2024-01-10,New
+C0241,Zainab,Lawal,customer0241@example.com,Abuja,FCT,2023-09-09,Regular
+C0242,Fatima,Ojo,customer0242@example.com,Port Harcourt,Rivers,2023-09-06,New
+C0243,Zainab,Lawal,customer0243@example.com,Kano,Kano,2024-09-20,Premium
+C0244,Samuel,James,customer0244@example.com,Enugu,Enugu,2023-10-19,Premium
+C0245,Olu,Uche,customer0245@example.com,Abuja,FCT,2024-10-15,New
+C0246,Mary,Adeyemi,customer0246@example.com,Abuja,FCT,2023-09-06,Premium
+C0247,Chiamaka,Adeyemi,customer0247@example.com,Uyo,Akwa Ibom,2023-12-12,Premium
+C0248,Kelechi,Uche,customer0248@example.com,Uyo,Akwa Ibom,2024-01-04,New
+C0249,Samuel,Adeyemi,customer0249@example.com,Lagos,Lagos,2025-05-21,Premium
+C0250,David,Bello,customer0250@example.com,Benin City,Edo,2023-03-25,Regular
+C0251,Ife,Adebayo,customer0251@example.com,Ilorin,Kwara,2025-07-30,Premium
+C0252,Samuel,Lawal,customer0252@example.com,Enugu,Enugu,2023-08-07,Premium
+C0253,Mary,Ibrahim,customer0253@example.com,Lagos,Lagos,2024-04-23,Regular
+C0254,Aisha,Uche,customer0254@example.com,Kano,Kano,2025-02-01,Premium
+C0255,Chiamaka,Nwosu,customer0255@example.com,Benin City,Edo,2024-10-14,Premium
+C0256,Amaka,Balogun,customer0256@example.com,Port Harcourt,Rivers,2023-06-04,Regular
+C0257,Daniel,Ojo,customer0257@example.com,Abeokuta,Ogun,2023-03-11,Premium
+C0258,Bola,Balogun,customer0258@example.com,Kano,Kano,2024-10-19,Premium
+C0259,David,Eze,customer0259@example.com,Abuja,FCT,2024-06-28,Premium
+C0260,Chiamaka,Adeyemi,customer0260@example.com,Ibadan,Oyo,2023-04-29,Regular
+C0261,Daniel,James,customer0261@example.com,Ibadan,Oyo,2024-08-08,New
+C0262,Kelechi,Nwosu,customer0262@example.com,Ilorin,Kwara,2025-08-19,New
+C0263,Chiamaka,Balogun,customer0263@example.com,Ibadan,Oyo,2023-03-08,Regular
+C0264,Mary,Adebayo,customer0264@example.com,Ibadan,Oyo,2024-03-10,New
+C0265,Bola,Okafor,customer0265@example.com,Benin City,Edo,2023-12-20,Premium
+C0266,Zainab,Obi,customer0266@example.com,Kano,Kano,2024-06-08,Regular
+C0267,Chiamaka,Uche,customer0267@example.com,Kano,Kano,2023-07-26,New
+C0268,Zainab,Obi,customer0268@example.com,Lagos,Lagos,2025-08-13,Premium
+C0269,Emeka,Nwosu,customer0269@example.com,Benin City,Edo,2025-05-01,New
+C0270,Ngozi,Bello,customer0270@example.com,Abuja,FCT,2024-01-26,Regular
+C0271,Emeka,Balogun,customer0271@example.com,Ilorin,Kwara,2023-12-14,New
+C0272,Kelechi,Bello,customer0272@example.com,Ibadan,Oyo,2023-02-15,Regular
+C0273,Kunle,Bello,customer0273@example.com,Ilorin,Kwara,2025-05-09,Regular
+C0274,Fatima,Balogun,customer0274@example.com,Lagos,Lagos,2023-11-03,New
+C0275,Zainab,Nwosu,customer0275@example.com,Benin City,Edo,2025-07-01,New
+C0276,David,Nwosu,customer0276@example.com,Benin City,Edo,2024-10-19,New
+C0277,Chiamaka,Okafor,customer0277@example.com,Kano,Kano,2025-07-08,Premium
+C0278,Ada,Lawal,customer0278@example.com,Uyo,Akwa Ibom,2025-01-20,Premium
+C0279,Kelechi,Adeyemi,customer0279@example.com,Ilorin,Kwara,2023-12-08,Regular
+C0280,Chiamaka,Balogun,customer0280@example.com,Uyo,Akwa Ibom,2025-04-06,Premium
+C0281,Kelechi,Balogun,customer0281@example.com,Abeokuta,Ogun,2024-05-31,Premium
+C0282,Kelechi,Okafor,customer0282@example.com,Uyo,Akwa Ibom,2024-01-06,New
+C0283,Tunde,Lawal,customer0283@example.com,Enugu,Enugu,2024-12-19,Regular
+C0284,Zainab,James,customer0284@example.com,Lagos,Lagos,2025-07-30,New
+C0285,Emeka,Eze,customer0285@example.com,Ilorin,Kwara,2023-02-18,New
+C0286,Ife,Ojo,customer0286@example.com,Kano,Kano,2025-09-25,Regular
+C0287,Zainab,James,customer0287@example.com,Kano,Kano,2023-09-18,Premium
+C0288,Emeka,Musa,customer0288@example.com,Benin City,Edo,2025-03-21,Regular
+C0289,Zainab,Lawal,customer0289@example.com,Ilorin,Kwara,2024-12-28,New
+C0290,Emeka,James,customer0290@example.com,Enugu,Enugu,2024-11-23,Premium
+C0291,Ada,Uche,customer0291@example.com,Ibadan,Oyo,2025-03-30,New
+C0292,Chiamaka,Nwosu,customer0292@example.com,Ilorin,Kwara,2024-06-28,Regular
+C0293,Chiamaka,Obi,customer0293@example.com,Uyo,Akwa Ibom,2024-05-04,Premium
+C0294,Ada,Okafor,customer0294@example.com,Uyo,Akwa Ibom,2025-09-17,Premium
+C0295,Daniel,Obi,customer0295@example.com,Abeokuta,Ogun,2024-01-17,Premium
+C0296,Bola,James,customer0296@example.com,Lagos,Lagos,2024-12-29,Regular
+C0297,Kelechi,Bello,customer0297@example.com,Kano,Kano,2025-08-19,New
+C0298,David,Obi,customer0298@example.com,Ibadan,Oyo,2023-08-08,Regular
+C0299,Daniel,Uche,customer0299@example.com,Uyo,Akwa Ibom,2025-03-08,Premium
+C0300,Mary,Musa,customer0300@example.com,Abuja,FCT,2023-05-19,New
+C0301,Ife,Ojo,customer0301@example.com,Uyo,Akwa Ibom,2024-11-23,Premium
+C0302,Ngozi,Adebayo,customer0302@example.com,Port Harcourt,Rivers,2024-01-25,Regular
+C0303,Samuel,Ibrahim,customer0303@example.com,Uyo,Akwa Ibom,2025-08-28,Regular
+C0304,Mary,Ibrahim,customer0304@example.com,Ibadan,Oyo,2023-09-20,Regular
+C0305,Amaka,Okafor,customer0305@example.com,Abeokuta,Ogun,2025-03-28,Premium
+C0306,Bola,Adeyemi,customer0306@example.com,Port Harcourt,Rivers,2024-11-06,Regular
+C0307,Aisha,Ibrahim,customer0307@example.com,Ibadan,Oyo,2025-02-12,New
+C0308,Olu,Ojo,customer0308@example.com,Ibadan,Oyo,2025-06-22,Premium
+C0309,Bola,Nwosu,customer0309@example.com,Lagos,Lagos,2024-10-16,New
+C0310,Samuel,Musa,customer0310@example.com,Abeokuta,Ogun,2025-05-28,Regular
+C0311,Emeka,Ibrahim,customer0311@example.com,Kano,Kano,2024-02-05,Regular
+C0312,Amaka,Adebayo,customer0312@example.com,Uyo,Akwa Ibom,2024-07-19,Premium
+C0313,Kelechi,Adeyemi,customer0313@example.com,Kano,Kano,2024-09-13,Premium
+C0314,Ngozi,Nwosu,customer0314@example.com,Ibadan,Oyo,2024-11-03,New
+C0315,Mary,Balogun,customer0315@example.com,Abuja,FCT,2025-02-19,Premium
+C0316,Emeka,Obi,customer0316@example.com,Lagos,Lagos,2025-01-23,Premium
+C0317,Amaka,Ibrahim,customer0317@example.com,Lagos,Lagos,2023-07-31,Premium
+C0318,Zainab,Bello,customer0318@example.com,Uyo,Akwa Ibom,2025-04-17,Premium
+C0319,Mary,Uche,customer0319@example.com,Ilorin,Kwara,2023-07-17,New
+C0320,Zainab,Balogun,customer0320@example.com,Enugu,Enugu,2025-07-25,Premium
+C0321,Ngozi,Adeyemi,customer0321@example.com,Port Harcourt,Rivers,2024-12-31,Premium
+C0322,Kunle,Adeyemi,customer0322@example.com,Ilorin,Kwara,2024-10-07,New
+C0323,Mary,Balogun,customer0323@example.com,Port Harcourt,Rivers,2023-10-08,Premium
+C0324,Zainab,James,customer0324@example.com,Port Harcourt,Rivers,2025-05-06,Regular
+C0325,Fatima,James,customer0325@example.com,Ilorin,Kwara,2024-01-22,New
+C0326,Emeka,Adebayo,customer0326@example.com,Lagos,Lagos,2023-11-08,New
+C0327,Fatima,Ibrahim,customer0327@example.com,Abeokuta,Ogun,2025-04-09,New
+C0328,Bola,Adebayo,customer0328@example.com,Benin City,Edo,2024-04-29,New
+C0329,Ngozi,Ibrahim,customer0329@example.com,Port Harcourt,Rivers,2023-04-01,Premium
+C0330,Daniel,Obi,customer0330@example.com,Uyo,Akwa Ibom,2025-07-12,Regular
+C0331,David,Adebayo,customer0331@example.com,Port Harcourt,Rivers,2025-08-18,Regular
+C0332,Samuel,James,customer0332@example.com,Kano,Kano,2024-01-13,Premium
+C0333,Ada,Ibrahim,customer0333@example.com,Abuja,FCT,2023-04-28,New
+C0334,Zainab,Ibrahim,customer0334@example.com,Uyo,Akwa Ibom,2023-04-17,Regular
+C0335,Mary,Uche,customer0335@example.com,Benin City,Edo,2023-09-24,Premium
+C0336,Chiamaka,Ojo,customer0336@example.com,Ilorin,Kwara,2023-07-09,New
+C0337,Ada,Obi,customer0337@example.com,Ilorin,Kwara,2024-10-15,Regular
+C0338,Emeka,Ibrahim,customer0338@example.com,Uyo,Akwa Ibom,2024-08-26,Premium
+C0339,Bola,Bello,customer0339@example.com,Enugu,Enugu,2023-01-15,Regular
+C0340,Olu,Ojo,customer0340@example.com,Ilorin,Kwara,2025-07-16,Premium
+C0341,Bola,Ojo,customer0341@example.com,Lagos,Lagos,2024-01-18,New
+C0342,Olu,Lawal,customer0342@example.com,Benin City,Edo,2023-07-31,Premium
+C0343,Kelechi,Nwosu,customer0343@example.com,Enugu,Enugu,2025-07-24,Premium
+C0344,Olu,Balogun,customer0344@example.com,Kano,Kano,2025-09-08,New
+C0345,Kunle,Adeyemi,customer0345@example.com,Kano,Kano,2023-09-29,Premium
+C0346,Olu,Uche,customer0346@example.com,Enugu,Enugu,2025-06-04,New
+C0347,Ife,Uche,customer0347@example.com,Abeokuta,Ogun,2024-07-26,New
+C0348,Fatima,Obi,customer0348@example.com,Ibadan,Oyo,2024-11-07,Premium
+C0349,Fatima,Ojo,customer0349@example.com,Abeokuta,Ogun,2024-12-30,New
+C0350,Ada,Musa,customer0350@example.com,Kano,Kano,2023-08-12,Regular
+C0351,David,Ojo,customer0351@example.com,Abeokuta,Ogun,2024-05-08,New
+C0352,Amaka,Lawal,customer0352@example.com,Ilorin,Kwara,2023-12-11,Premium
+C0353,Chiamaka,Ibrahim,customer0353@example.com,Uyo,Akwa Ibom,2024-03-19,Premium
+C0354,Amaka,Ibrahim,customer0354@example.com,Ilorin,Kwara,2023-08-04,Premium
+C0355,Kunle,Adeyemi,customer0355@example.com,Ilorin,Kwara,2024-08-18,New
+C0356,Tunde,Bello,customer0356@example.com,Enugu,Enugu,2024-06-07,New
+C0357,Samuel,Eze,customer0357@example.com,Enugu,Enugu,2023-07-20,Regular
+C0358,Bola,Okafor,customer0358@example.com,Abeokuta,Ogun,2025-03-22,New
+C0359,Ife,Balogun,customer0359@example.com,Uyo,Akwa Ibom,2024-02-02,Premium
+C0360,Bola,Ibrahim,customer0360@example.com,Uyo,Akwa Ibom,2024-09-06,Premium
+C0361,Bola,Adeyemi,customer0361@example.com,Uyo,Akwa Ibom,2024-08-12,New
+C0362,Chiamaka,Obi,customer0362@example.com,Ilorin,Kwara,2024-08-23,Premium
+C0363,Kunle,Ibrahim,customer0363@example.com,Ilorin,Kwara,2023-04-13,New
+C0364,Aisha,Bello,customer0364@example.com,Benin City,Edo,2023-09-07,Premium
+C0365,Kunle,Ojo,customer0365@example.com,Lagos,Lagos,2024-02-25,Premium
+C0366,Fatima,Ojo,customer0366@example.com,Abeokuta,Ogun,2024-04-23,Premium
+C0367,Ngozi,Ojo,customer0367@example.com,Ibadan,Oyo,2024-08-21,Premium
+C0368,Daniel,Obi,customer0368@example.com,Kano,Kano,2025-04-19,Regular
+C0369,Ife,Adebayo,customer0369@example.com,Abuja,FCT,2024-04-15,Regular
+C0370,Ife,Musa,customer0370@example.com,Lagos,Lagos,2023-07-31,New
+C0371,Samuel,Musa,customer0371@example.com,Port Harcourt,Rivers,2023-09-12,Regular
+C0372,Tunde,Bello,customer0372@example.com,Kano,Kano,2024-04-27,Premium
+C0373,Kunle,Bello,customer0373@example.com,Port Harcourt,Rivers,2024-10-31,Regular
+C0374,Kunle,Adeyemi,customer0374@example.com,Ilorin,Kwara,2023-07-24,New
+C0375,Kunle,Nwosu,customer0375@example.com,Lagos,Lagos,2024-05-31,New
+C0376,Fatima,Adebayo,customer0376@example.com,Kano,Kano,2023-08-07,New
+C0377,Mary,Eze,customer0377@example.com,Abuja,FCT,2023-06-20,Regular
+C0378,Fatima,James,customer0378@example.com,Port Harcourt,Rivers,2025-02-07,Regular
+C0379,David,Ojo,customer0379@example.com,Port Harcourt,Rivers,2023-09-03,Premium
+C0380,Tunde,Nwosu,customer0380@example.com,Ilorin,Kwara,2024-12-16,Regular
+C0381,Samuel,Okafor,customer0381@example.com,Ilorin,Kwara,2025-06-16,Premium
+C0382,Kelechi,Musa,customer0382@example.com,Uyo,Akwa Ibom,2024-03-08,Regular
+C0383,Ngozi,Balogun,customer0383@example.com,Kano,Kano,2023-02-05,Premium
+C0384,Olu,Adebayo,customer0384@example.com,Port Harcourt,Rivers,2023-07-28,New
+C0385,Olu,Adeyemi,customer0385@example.com,Ilorin,Kwara,2024-07-04,Premium
+C0386,Bola,Musa,customer0386@example.com,Enugu,Enugu,2024-02-23,New
+C0387,Zainab,Obi,customer0387@example.com,Abeokuta,Ogun,2024-05-02,Regular
+C0388,Amaka,Uche,customer0388@example.com,Ibadan,Oyo,2023-10-04,Regular
+C0389,Emeka,Ojo,customer0389@example.com,Benin City,Edo,2024-03-07,Regular
+C0390,Kunle,Balogun,customer0390@example.com,Kano,Kano,2024-10-12,New
+C0391,Amaka,Ibrahim,customer0391@example.com,Uyo,Akwa Ibom,2023-01-21,Premium
+C0392,Chiamaka,Balogun,customer0392@example.com,Enugu,Enugu,2023-09-09,New
+C0393,David,Nwosu,customer0393@example.com,Abeokuta,Ogun,2025-04-26,Regular
+C0394,David,Ojo,customer0394@example.com,Kano,Kano,2025-03-02,Premium
+C0395,Amaka,Balogun,customer0395@example.com,Benin City,Edo,2024-12-16,New
+C0396,Amaka,Eze,customer0396@example.com,Abeokuta,Ogun,2024-06-29,New
+C0397,Chiamaka,Eze,customer0397@example.com,Port Harcourt,Rivers,2024-05-12,New
+C0398,Chiamaka,Musa,customer0398@example.com,Kano,Kano,2024-08-15,Premium
+C0399,Zainab,James,customer0399@example.com,Uyo,Akwa Ibom,2024-05-22,New
+C0400,Aisha,Nwosu,customer0400@example.com,Lagos,Lagos,2023-07-05,Premium
